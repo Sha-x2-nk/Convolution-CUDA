@@ -12,7 +12,6 @@ const int RADIUS = 3;
 const int FILTER_SIZE = 2 * RADIUS + 1;
 const int IN_CHANNELS = 1;
 const int OUT_CHANNELS = 1;
-const int STRIDE = 1;
 const int PADDING = RADIUS;
 
 void initMat(float *A, int M, int N){
