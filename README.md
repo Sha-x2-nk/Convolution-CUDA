@@ -1,4 +1,4 @@
-# OPTIMISING CONVOLUTION KERNELS ON CUDA
+# Optimising Direct Convolution kernels on CUDA
 ## Introduction
 This project implements three convolution kernels using CUDA (Compute Unified Device Architecture) with optimizations for improved performance. Convolution kernels are fundamental operations in deep learning and image processing, and optimizing them for GPU execution can significantly accelerate computation.
 
